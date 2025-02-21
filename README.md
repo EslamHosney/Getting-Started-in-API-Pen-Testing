@@ -27,8 +27,20 @@
     * Document the Daily findings JOPLIN, OBSIDIAN, CHERRY TREE, .....
     * Hack the API BURP SUITE, POSTMAN, APISEC Scan, SQLMAP, OWASP ZAP
 
+### During Testing
+- Tips
+    * OWASP ASVS
+    * Use AI "POSTMAN POSTBOT", "Hacking APIs GPT", "Pentest GPT"
+    * OPENAPI pecificatio OAS check OPENAPI Tools
+    * MIND API Project 
 
-
+### After Testing
+- Exective Summary
+- Scope     outlining target systems and boundaries.
+- Methodology
+- Findings
+- Recommendations
+- Conclusion
 
 
 
